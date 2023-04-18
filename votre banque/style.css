@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ @font-face{
+    font-family: police;
+    src: url(police/Montserrat-VariableFont_wght.ttf);
+}
+.logo1{
+
+    width: 50px;
+    height: 50px;
+    margin-left: 200px;
+}
+.p1{
+    display: flex;
+    margin-right: 200px;
+}
+.hbank{
+    color: black;
+}
+.rect1{
+    background-color: rgb(211, 53, 53);
+    height: 9px;
+    width: 100px;
+}
+.rec{
+    background-color: rgb(11, 10, 10);
+        height: 400px;
+        width: 1300px;
+        border: 25px;
+        position: relative;
+        bottom: 15px;
+        z-index: -1;
+}
+.nc{
+    z-index: 1;
+margin-top: -400px;
+ color: rgb(255, 252, 252);
+ font-size: 15px;
+   
+}
+.ns{
+    margin-left: 900px;
+    color: rgb(255, 252, 252);
+    font-size: 15px;  
+    
+}
+.na{
+  color: white; 
+  font-size: 11px; 
+  margin-left: 65px; 
+}
+.logo{
+    margin-top: 110px;
+}
+.text{
+    color: white;
+    margin-top: 15px;
+    
+}
+.facebook{
+    width: 60px;
+    height: 50px;
+    margin-left: 1000px;
+    margin-top: -240px;
+}
